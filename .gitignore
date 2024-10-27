@@ -1,0 +1,29 @@
+# Ignore object files and executables
+*.o
+*.exe
+
+# Ignore other common build artifacts
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Ignore debugging files
+*.gch
+*.pch
+*.obj
+*.pdb
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+*~
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
