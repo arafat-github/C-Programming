@@ -16,4 +16,4 @@ Welcome to my C programming journey! This repository is dedicated to learning th
 
 Feel free to clone the repository and experiment with the code:
 ```bash
-git clone https://github.com/Grapsee_Official/your-repo-name.git
+git clone https://github.com/arafat-github/C-Programming.git
