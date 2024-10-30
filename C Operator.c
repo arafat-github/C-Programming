@@ -46,4 +46,6 @@ int main()
         printf("Equal");
     }
 
+    getch();
+
 }
